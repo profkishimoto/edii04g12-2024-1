@@ -31,7 +31,7 @@
 
 ## EXERCÍCIOS E AVALIAÇÕES
 
-**Atenção!** As entregas devem ser realizadas pelo Moodle!
+**Atenção!** As entregas das atividades devem ser realizadas pelo Moodle!
 
 - [Lab1a - Revisão: Programação Orientada a Objetos com Java](atividades/n1/EDII-2024.1%20-%20Lab1a%20-%20Revisão%20POO%20com%20Java.pdf) - Entrega até 05/03/2024 23:59
   - Arquivo extra para a atividade Lab1a: [imdb.txt](atividades/n1/imdb.txt)
